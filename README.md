@@ -3,7 +3,7 @@ This is the matlab source code of "Applications of cluster-based transfer learni
 If you want to use the code for your research, please cite the following paper. Thanks a lot!
 
 
-@article{YANG2024100601,
+@article{2024100601,
 title = {Applications of cluster-based transfer learning in image and localization tasks},
 journal = {Machine Learning with Applications},
 pages = {100601},
